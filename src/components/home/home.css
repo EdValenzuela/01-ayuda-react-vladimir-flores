@@ -1,0 +1,33 @@
+#contenido_detalle{
+    width:100%;
+    margin:0px auto;
+    padding-bottom:100px;
+    text-align:center;
+
+}
+
+#contenido_detalle .cntdetalle{overflow:hidden;background:#FFF;margin-right:0.8em;margin-left:0.8em;margin-bottom:0.8em;}
+
+#contenido_detalle .item_descripcion{
+    display: inline-block;
+    vertical-align:top;
+    width:420px;
+    text-align:center;
+    margin:0px 30px;
+    margin-top:35px;
+}
+
+.beneficio{color:#b12317;font-size:35px;font-family:'fuentedos',sans-serif;margin-bottom:1.1em;}
+.textodesc{font-size:16px;color:#000000;font-family:'fuentecinco';text-align:justify;margin:1.5em;}
+
+#contenido_detalle .item_descripcion p{font-size:16px;color:#000000;font-family:'fuentecinco';text-align:justify;margin:1.5em;line-height:160%;}
+
+#contenido_detalle .item_descripcion ul,li{text-align:left !important;font-family:'fuentecinco';font-size:16px;color:#000000;line-height:160%;}
+
+#contenido_detalle .item_descripcion a{text-decoration:none;}
+
+#contenido_detalle .cntvermas{overflow:hidden;margin:0 auto;}
+
+#contenido_detalle .btnvermas{text-align:center;font-size:16px;font-family:'fuentesiete';padding:0.5em 1em;margin:0 auto;color:#aaae48;border:#aaae48 solid 1px;width:140px;vertical-align:middle;}
+
+#contenido_detalle .btnvermas:hover{background:#aaae48;color:#FFF;}

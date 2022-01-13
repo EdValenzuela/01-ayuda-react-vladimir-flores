@@ -1,0 +1,32 @@
+.contentProduct{
+    list-style: none;
+    display: inline-block;
+    margin:10px;
+    vertical-align: top;
+    width:240px;
+    height:345px;
+    /*background:yellow;*/
+    float:left;
+}
+
+.bordelista{
+    border:#CCC solid 1px;
+}
+
+.contentProduct a:hover{
+    text-decoration:none !important;
+}
+
+.contentProduct img{
+ width:100%;
+}
+
+.contador{
+    font-family:'fuentecinco','sans-serif';text-align:left;color: #000; font-size: 14px;
+}
+
+@media screen and (max-width: 768px) {
+    .contentProduct {
+       width: 100%; height: auto;
+    }  
+}

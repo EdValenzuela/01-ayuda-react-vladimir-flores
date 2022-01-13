@@ -1,0 +1,9 @@
+#contenlogueado{
+    overflow:hidden;
+}
+
+#contenlogueado .nombrelogueado{display:inline-block;}
+#contenlogueado .nombrelogueado a{color:#cf1d0f !important;}
+#contenlogueado .nombrelogueado a:hover{color:#c4cb56 !important;}
+#contenlogueado .lineav{display:inline-block;}
+#contenlogueado .salir{display:inline-block;}
